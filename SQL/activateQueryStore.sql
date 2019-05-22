@@ -1,0 +1,1 @@
+ALTER DATABASE mySampleDatabase SET QUERY_STORE = ON
